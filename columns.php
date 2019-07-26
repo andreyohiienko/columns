@@ -86,6 +86,6 @@ function Register_button($buttons)
  */
 function Add_plugin($plugin_array)
 {
-    $plugin_array['columns'] = get_template_directory_uri() . '/columns.js';
+    $plugin_array['columns'] = get_template_directory_uri() . '/plugins/columns.js';
     return $plugin_array;
 }
