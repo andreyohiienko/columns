@@ -1,6 +1,6 @@
 <?php
 /**
- * Add abliity to paste row in content editor
+ * Add ability to paste row in content editor
  *
  * @param string $atts default settings
  *
